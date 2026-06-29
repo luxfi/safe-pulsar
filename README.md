@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="safe-pulsar" width="880"></p>
+
 > [!WARNING]
 > Code in this repository is not audited and may contain serious security holes. Use at your own risk.
 
